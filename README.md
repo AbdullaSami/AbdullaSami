@@ -11,8 +11,7 @@ Building scalable web applications with Laravel, Node.js, React & Vue. Passionat
 - 🌱 I’m currently learning **advanced backend architecture, cloud patterns, and system design**.  
 - 🧩 I enjoy building **CRMs, admin dashboards, and e‑commerce platforms** with clean, maintainable code.  
 - 💬 Ask me about **Laravel, REST APIs, database optimization, React/Vue integrations, and performance tuning**.  
-- 📫 How to reach me: **[alattariabdulla@gmail.com](mailto:alattariabdulla@gmail.com)** • [LinkedIn](https://linkedin.com/in/your‑linkedin) • [Portfolio](https://your‑portfolio.com)  
-- 😄 Pronouns: He/Him  
+- 📫 How to reach me: **[alattariabdulla@gmail.com](mailto:alattariabdulla@gmail.com)** • [LinkedIn](https://www.linkedin.com/in/abdalla-abdelnaby) • [Portfolio](https://abdulla-sami.me)
 
 ---
 
