@@ -56,7 +56,7 @@ Git • GitHub • Docker • Postman • Linux • CI/CD workflows
 ### 🌐 Connect With Me
 
 - ✉️ Email: [alattariabdulla@gmail.com](mailto:alattariabdulla@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/your‑linkedin](https://www.linkedin.com/in/abdalla-abdelnaby)  
+- 💼 LinkedIn: [https://www.linkedin.com/in/abdalla-abdelnaby](https://www.linkedin.com/in/abdalla-abdelnaby)  
 - 🖥 Portfolio: [https://abdulla-sami.me](https://abdulla-sami.me)  
 - 🐙 GitHub: [https://github.com/AbdullaSami](https://github.com/AbdullaSami)  
 
