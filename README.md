@@ -39,8 +39,6 @@ Git • GitHub • Docker • Postman • Linux • CI/CD workflows
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdullaSami&show_icons=true&theme=radical)  
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullaSami&layout=compact&theme=radical)
 
-> *(Replace `AbdullaSami` with your actual GitHub username.)*
-
 ---
 
 ### 🔗 Featured Projects
