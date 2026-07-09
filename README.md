@@ -64,6 +64,3 @@ Git • GitHub • Docker • Postman • Linux • CI/CD workflows
 
 I love refactoring legacy code into modular, testable systems and turning messy requirements into clean, scalable architectures. When I’m not coding, I’m usually exploring new libraries, optimizing queries, or reading about system design.
 
----
-
-If you’d like, I can also generate a **version with animated typing text and extra badges** (like “Full‑Stack Developer”, “Laravel Enthusiast”, “Open‑Source Contributor”)—just say yes and tell me which themes you like (dark, minimal, colorful).
